@@ -1,2 +1,1 @@
-# MountainLineBusdatasetaAnalysis
-The analysis highlighted significant relationships between bus boarding counts and factors like temperature, stop numbers, and trip duration. Random Forest Regressor proved more accurate for graduate count predictions, particularly for Bachelor’s and Master’s degrees.
+This project combines statistical analysis and predictive modeling to optimize Mountain Line bus operations and forecast graduation counts at Northern Arizona University (NAU) commencement ceremonies. The study integrates historical bus boarding data, weather variables, and graduation records to derive actionable insights for efficient planning. The insights derived will assist NAU in planning efficient bus services and accurately accommodating graduate ceremonies.
